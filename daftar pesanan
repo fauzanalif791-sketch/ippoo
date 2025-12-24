@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Daftar Pesanan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="page">
+    <div class="container">
+
+      <!-- Header -->
+      <div class="header">
+        <span class="back">← Kembali</span>
+        <h2>Daftar Pesanan</h2>
+      </div>
+
+      <!-- Tabel -->
+      <table>
+        <thead>
+          <tr>
+            <th>No</th>
+            <th>Nama</th>
+            <th>Pesanan</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>1</td>
+            <td>John Doe</td>
+            <td>Mangga - 2 kg</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Jane Smith</td>
+            <td>Apel - 3 kg</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- Tombol -->
+      <div class="buttons">
+        <button class="btn pop">Pop</button>
+        <button class="btn hapus">Hapus</button>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>

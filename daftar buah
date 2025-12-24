@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Daftar Buah</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="page">
+    <div class="container">
+
+      <!-- Header -->
+      <div class="header">
+        <span class="back">← Kembali</span>
+        <h2>Daftar Buah</h2>
+      </div>
+
+      <!-- Grid Buah -->
+      <div class="grid">
+        <div class="card">
+          <img src="mangga.jpg" alt="Mangga">
+          <p>Mangga</p>
+        </div>
+
+        <div class="card">
+          <img src="apel.jpg" alt="Apel">
+          <p>Apel</p>
+        </div>
+
+        <div class="card">
+          <img src="durian.jpg" alt="Durian">
+          <p>Durian</p>
+        </div>
+
+        <div class="card">
+          <img src="pisang.jpg" alt="Pisang">
+          <p>Pisang</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>
